@@ -1,0 +1,27 @@
+body {
+    height: 100vh;
+    background: linear-gradient(to bottom, rgb(0, 0, 0), #001a33, rgb(0, 0, 128));
+    background-repeat: no-repeat;
+    height: 100vh;
+    font-family: "Syncopate", sans-serif;
+    margin: 0;
+    display: flex;
+}
+
+.pizarra {
+    background-color: #2F6FA0;
+    position: auto;
+    width: 70%;
+    height: 75%;
+    margin: auto;
+    box-sizing: border-box;
+    text-align: center;
+    border-radius: 30px;
+    box-shadow: 0 10px 25px rgba(0, 0, 0, 0.841);
+} 
+
+h2 {
+    color: #d9dcde;
+    font-size: 70px;
+    margin-bottom: 60px;
+}
